@@ -1,0 +1,31 @@
+[theme]
+# Use "light" or "dark" mode
+# Leave commented to respect system preference
+# base = "dark"
+
+# Primary color for interactive elements
+primaryColor = "#0066cc"
+
+# Background color for the main content area
+# backgroundColor = "#0e1117"  # for dark mode
+# backgroundColor = "#ffffff"  # for light mode
+
+# Background color for sidebar
+# secondaryBackgroundColor = "#262730"  # for dark mode
+# secondaryBackgroundColor = "#f0f2f6"  # for light mode
+
+# Color used for text
+# textColor = "#fafafa"  # for dark mode
+# textColor = "#31333F"  # for light mode
+
+# Font for all text
+font = "sans serif"
+
+[server]
+# Enable CORS for development
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+# Gather usage stats
+gatherUsageStats = false

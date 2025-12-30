@@ -1,0 +1,301 @@
+{
+  "_comment": "Oslo Parking Tariff Groups - Auto-generated from parkering_pris layer",
+  "_source": "geodata.bymoslo.no/arcgis/rest/services/geodata/Gateparkering/MapServer/6",
+  "_generated_at": "2025-12-30 18:30:47",
+  "2020": {
+    "name": "Takstgruppe 2020",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "2 timer",
+    "prices_bensin_diesel": {
+      "1h": 90,
+      "2h": 212,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 45,
+      "2h": 106,
+      "currency": "NOK"
+    }
+  },
+  "2025": {
+    "name": "Takstgruppe 2025",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "2 timer",
+    "prices_bensin_diesel": {
+      "1h": 90,
+      "2h": 212,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 45,
+      "2h": 106,
+      "currency": "NOK"
+    }
+  },
+  "2200": {
+    "name": "Takstgruppe 2200",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "2 timer",
+    "prices_bensin_diesel": {
+      "1h": 69,
+      "2h": 136,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 35,
+      "2h": 68,
+      "currency": "NOK"
+    }
+  },
+  "2210": {
+    "name": "Takstgruppe 2210",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "2 timer",
+    "prices_bensin_diesel": {
+      "1h": 69,
+      "2h": 136,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 35,
+      "2h": 68,
+      "currency": "NOK"
+    }
+  },
+  "2240": {
+    "name": "Takstgruppe 2240",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "4 timer",
+    "prices_bensin_diesel": {
+      "1h": 69,
+      "2h": 136,
+      "3h": 201,
+      "4h": 268,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 35,
+      "2h": 68,
+      "3h": 101,
+      "4h": 134,
+      "currency": "NOK"
+    }
+  },
+  "2250": {
+    "name": "Takstgruppe 2250",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "Ubegrenset",
+    "prices_bensin_diesel": {
+      "1h": 69,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 35,
+      "currency": "NOK"
+    }
+  },
+  "2260": {
+    "name": "Takstgruppe 2260",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "2 timer",
+    "prices_bensin_diesel": {
+      "1h": 69,
+      "2h": 136,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 35,
+      "2h": 68,
+      "currency": "NOK"
+    }
+  },
+  "2300": {
+    "name": "Takstgruppe 2300",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "Ubegrenset",
+    "prices_bensin_diesel": {
+      "1h": 69,
+      "2h": 136,
+      "3h": 201,
+      "4h": 268,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 35,
+      "2h": 68,
+      "3h": 101,
+      "4h": 134,
+      "currency": "NOK"
+    }
+  },
+  "2310": {
+    "name": "Takstgruppe 2310",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "Ubegrenset",
+    "prices_bensin_diesel": {
+      "1h": 40,
+      "2h": 81,
+      "3h": 122,
+      "4h": 163,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 20,
+      "2h": 41,
+      "3h": 61,
+      "4h": 82,
+      "currency": "NOK"
+    }
+  },
+  "2520": {
+    "name": "Takstgruppe 2520",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "28 dager",
+    "prices_bensin_diesel": {
+      "1h": 69,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 35,
+      "currency": "NOK"
+    }
+  },
+  "2600": {
+    "name": "Takstgruppe 2600",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "2 timer",
+    "prices_bensin_diesel": {
+      "1h": 40,
+      "2h": 85,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 20,
+      "2h": 43,
+      "currency": "NOK"
+    }
+  },
+  "2650": {
+    "name": "Takstgruppe 2650",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "28 dager",
+    "prices_bensin_diesel": {
+      "1h": 20,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 10,
+      "currency": "NOK"
+    }
+  },
+  "2700": {
+    "name": "Takstgruppe 2700",
+    "avgiftstid": "Kl. 09:00-20:00 (man-lør)",
+    "maks_tid": "Ubegrenset",
+    "prices_bensin_diesel": {
+      "1h": 20,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 10,
+      "currency": "NOK"
+    }
+  },
+  "2850": {
+    "name": "Takstgruppe 2850",
+    "avgiftstid": "Kl. 09:00-20:00 (man-søn)",
+    "maks_tid": "1 dager",
+    "prices_bensin_diesel": {
+      "1h": 20,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 10,
+      "currency": "NOK"
+    }
+  },
+  "2880": {
+    "name": "Takstgruppe 2880",
+    "avgiftstid": "Kl. 09:00-20:00 (man-søn)",
+    "maks_tid": "Ubegrenset",
+    "prices_bensin_diesel": {
+      "1h": 20,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 10,
+      "currency": "NOK"
+    }
+  },
+  "2960": {
+    "name": "Takstgruppe 2960",
+    "avgiftstid": "Kl. 09:00-20:00 (man-søn)",
+    "maks_tid": "28 dager",
+    "prices_bensin_diesel": {
+      "1h": 20,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 10,
+      "currency": "NOK"
+    }
+  },
+  "2012": {
+    "name": "Takstgruppe 2012",
+    "avgiftstid": "Kl. 13:00-20:00 (man-fre) og 09:00-20:00 (lør) ",
+    "maks_tid": "2 timer",
+    "prices_bensin_diesel": {
+      "1h": 90,
+      "2h": 212,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 45,
+      "2h": 106,
+      "currency": "NOK"
+    }
+  },
+  "2040": {
+    "name": "Takstgruppe 2040",
+    "avgiftstid": "Kl. 00-24",
+    "maks_tid": "8 timer",
+    "prices_bensin_diesel": {
+      "1h": 90,
+      "2h": 212,
+      "currency": "NOK"
+    },
+    "prices_elbil": {
+      "1h": 0,
+      "2h": 0,
+      "currency": "NOK"
+    }
+  },
+  "3051": {
+    "name": "Takstgruppe 3051"
+  },
+  "3052": {
+    "name": "Takstgruppe 3052"
+  },
+  "3053": {
+    "name": "Takstgruppe 3053"
+  },
+  "3054": {
+    "name": "Takstgruppe 3054"
+  },
+  "beboerparkering": {
+    "name": "Beboerparkering",
+    "description": "Kommunal parkering for beboere",
+    "avgiftstid": "Døgnet rundt",
+    "note": "Krever beboerparkerings-tillatelse",
+    "annual_fee": {
+      "sone_A": 3800,
+      "sone_B": 3600,
+      "sone_C": 3400,
+      "sone_D": 3000,
+      "sone_E": 2500,
+      "sone_F": 2000,
+      "currency": "NOK",
+      "note": "Årlig avgift for beboerparkerings-tillatelse (2024)"
+    }
+  }
+}
