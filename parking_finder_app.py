@@ -452,9 +452,8 @@ with st.expander("ℹ️ About Oslo Parking Zones & Types"):
     ### 🅿️ Parking Information
     
     **Resident Parking Zones (Beboerparkering)**
-    - Oslo is divided into resident parking zones (A, B, C, D, E, F, etc.)
-    - Each zone requires a specific parking permit
-    - Zone D covers specific neighborhoods in Oslo
+    - Oslo is divided into resident parking zones (A, B, C, D, E, F, etc.). Each zone requires a specific parking permit.
+    - This webapp is dedicated for Zone D (Grünerløkka) Beboerparkering
     
     **Color Coding on Map:**
     - 🔴 **Red marker** = Your current location
